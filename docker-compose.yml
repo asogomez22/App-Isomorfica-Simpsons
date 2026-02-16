@@ -1,0 +1,7 @@
+services:
+  appisomorfica:
+    build: .
+    container_name: appisomorfica
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
