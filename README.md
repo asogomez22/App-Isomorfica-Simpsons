@@ -104,6 +104,3 @@ Las imágenes se sirven desde CDN (`cdn.thesimpsonsapi.com/500`) con fallback au
 
 ---
 
-<div align="center">
-  <sub>Hecho con 💛 y muchas donuts</sub>
-</div>
